@@ -11,7 +11,7 @@
 
 <!-- About Me -->
 ## 👋 About Me
-- 🎵 Passionate about **Music**, **Data Analysis**, **Machine Learning**, **CI/CD**, **Cloud Computing**, **Big Data Analysis** & **Deep Learning**
+- 🎵 Passionate about **Data Analysis**, **Machine Learning**, **CI/CD**, **Cloud Computing**, **Big Data Analysis** & **Deep Learning**
 - 📚 Currently learning: **Self Hosting**, **Cloud Computing**, **CI/CD**, **Machine Learning**, **Deep Learning**, and **Advanced Data Analysis**
 - 💼 **Civil Engineer by Profession** (now transitioning to tech) 👷‍♂️
 - 💻 **Certified Pythonista!**
