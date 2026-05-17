@@ -77,6 +77,8 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkza
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white)](https://geopandas.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white)](https://www.langchain.com/langgraph)
 
 ## Tools that coding makes easier
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
