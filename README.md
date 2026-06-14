@@ -99,6 +99,18 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkza
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white)](https://www.langchain.com/langgraph)
 [![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://smith.langchain.com/)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0096FF?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E57E0?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0F6FFF?style=for-the-badge)
+
+# 🔠 OPTICAL CHARACTER RECOGNITION (OCR)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-4B5563?style=for-the-badge)
+![LanguageTool](https://img.shields.io/badge/LanguageTool-45A1FF?style=for-the-badge)
 
 # 🗂️ Big Data and Data Engineering
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
