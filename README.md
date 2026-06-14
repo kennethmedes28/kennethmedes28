@@ -91,6 +91,8 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkza
 
 # 🗺️GIS Analysis
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white)](https://geopandas.org/)
+[![Shapely](https://img.shields.io/badge/Shapely-4CAF50?style=for-the-badge)](https://shapely.readthedocs.io/)
+[![Rasterio](https://img.shields.io/badge/Rasterio-8B4513?style=for-the-badge)](https://rasterio.readthedocs.io/)
 
 # 🤗 LLM 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
