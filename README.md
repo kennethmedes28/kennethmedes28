@@ -37,7 +37,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkza
 - 🤖 **Deep Learning**
 - 🤗 **Hugging Face/Transformers and Langchain**
 - 🌐 **Web Scraping with LLMs**
-- 🙋 Volunteer and Open-Source Projects Participation (Omdena/Kaggle/Zindi)
+- 🙋 Volunteer to Open-Source Projects Participation (Omdena/Kaggle/Zindi)
 
 <br clear="right"/>
 
