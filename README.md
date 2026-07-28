@@ -143,7 +143,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkza
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="www.linkedin.com/in/kenneth-medes-956798345">
+  <a href="https://www.linkedin.com/in/kenneth-medes-956798345">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/kennethmedes28">
