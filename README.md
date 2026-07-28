@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <div align="center">
   <h1>Hi, I'm Kenneth Medes</h1>
-  <p><i> Aspiring Data Scientist / Aspiring ML Engineer / Cloud Computing Enthusiast</i></p>
+  <p><i> Machine Learning Engineer </i></p>
 </div>
 
 <!-- Animated Divider -->
