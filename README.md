@@ -11,7 +11,7 @@
 
 <!-- About Me -->
 ## 👋 About Me
-- 🎵 Passionate about **Data Analysis**, **Machine Learning**, **CI/CD**, **Cloud Computing**, **Big Data Analysis** & **Deep Learning**
+- 🎵 Passionate about **Data Analysis**, **Machine Learning**, **DevOps**, **Cloud Computing**, **Big Data Analysis** & **Deep Learning**
 - 💼 **Civil Engineer by Profession** (now transitioning to tech) 👷‍♂️
 - 💻 **Certified Pythonista!**
 - 😄 Pronouns: **He/Him/His**
