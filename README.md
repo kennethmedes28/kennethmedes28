@@ -93,10 +93,15 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkza
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-# 🗺️GIS Analysis
+# 🗺️ GIS Analysis
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=geopandas&logoColor=white)](https://geopandas.org/)
 [![Shapely](https://img.shields.io/badge/Shapely-4CAF50?style=for-the-badge)](https://shapely.readthedocs.io/)
 [![Rasterio](https://img.shields.io/badge/Rasterio-8B4513?style=for-the-badge)](https://rasterio.readthedocs.io/)
+[![Folium](https://img.shields.io/badge/Folium-006400?style=for-the-badge)](https://python-visualization.github.io/folium/)
+[![Rioxarray](https://img.shields.io/badge/Rioxarray%2Fxarray-4682B4?style=for-the-badge)](https://corteva.github.io/rioxarray/stable/)
+[![PyProj](https://img.shields.io/badge/PyProj-FF4500?style=for-the-badge)](https://pyproj4.github.io/pyproj/stable/)
+[![PySAL](https://img.shields.io/badge/PySAL-9932CC?style=for-the-badge)](https://pysal.org/)
+
 
 # 🤗 LLM 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
