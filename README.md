@@ -31,7 +31,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkza
      style="border-radius: 10px; padding: 10px; margin-right: 20px;" />
 
 - 🔧 **Machine Learning Projects**
-- ☁️ **Cloud Infrastructure & Self-Hosting**
+- ☁️ **Microservices**
 - 📈 **Data Analysis & Visualization**
 - 🚀 **CI/CD Pipeline Automation**
 - 🤖 **Deep Learning**
