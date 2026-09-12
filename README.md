@@ -10,19 +10,19 @@
 </div>
 
 <!-- About Me -->
-## 👋 About Me
+### 👋 About Me
 - 🎵 Passionate about **Data Analysis**, **Machine Learning**, **DevOps**, **Cloud Computing**, **Big Data Engineering** & **Deep Learning**
 - 💼 **Civil Engineer by Profession** (now transitioning to tech) 👷‍♂️
 - 💻 **Certified Pythonista!**
 - 😄 Pronouns: **He/Him/His**
 
 <!-- Collaboration -->
-## 🤝 Collaboration
+### 🤝 Collaboration
 I'm looking to collaborate on ongoing projects! Your comments and suggestions are valuable for improving my models and repositories.
 
 ---
 <!--Current Works -->
-## 📊 What I'm Working On
+### 📊 What I'm Working On
 
 <img align="right" 
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkzaWFmOG1zNG5ra3A1bm55bzE5cXRjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
@@ -41,7 +41,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkza
 
 <br clear="right"/>
 
-# 🎓 Skills & Technologies
+### 🎓 Skills & Technologies
 
 ---
 <!--Skills and Highlights -->
@@ -147,7 +147,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkza
 
 ---
 <!--Contacts -->
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kenneth-medes-956798345">
