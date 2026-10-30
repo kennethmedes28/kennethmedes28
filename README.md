@@ -1,159 +1,224 @@
-<!-- Introduction -->
-<div align="center">
-  <h1>Hi, I'm Kenneth Medes</h1>
-  <p><i> Machine Learning Engineer </i></p>
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- About Me -->
-### 👋 About Me
-- 🎵 Passionate about **Data Analysis**, **Machine Learning**, **DevOps**, **Cloud Computing**, **Big Data Engineering** & **Deep Learning**
-- 💼 **Civil Engineer by Profession** (now transitioning to tech) 👷‍♂️
-- 💻 **Certified Pythonista!**
-- 😄 Pronouns: **He/Him/His**
-
-<!-- Collaboration -->
-### 🤝 Collaboration
-I'm looking to collaborate on ongoing projects! Your comments and suggestions are valuable for improving my models and repositories.
-
----
-<!--Current Works -->
-### 📊 What I'm Working On
-
-<img align="right" 
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4a2E0YXN5NnI1ZjhscHkzaWFmOG1zNG5ra3A1bm55bzE5cXRjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
-     alt="Coding"
-     width="20%"
-     style="border-radius: 10px; padding: 10px; margin-right: 20px;" />
-
-- 🔧 **Machine Learning Projects**
-- ☁️ **Microservices**
-- 📈 **Data Analysis & Visualization**
-- 🚀 **CI/CD Pipeline Automation**
-- 🤖 **Deep Learning**
-- 🤗 **Hugging Face/Transformers and Langchain**
-- 🌐 **Web Scraping with LLMs**
-- 🙋 Volunteer to Open-Source Projects Participation (Omdena/Kaggle)
-
-<br clear="right"/>
-
-### 🎓 Skills & Technologies
-
----
-<!--Skills and Highlights -->
-**🛠️ Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo&logo=apple&logoColor=white)
-
-**</> Programming Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo&logo=sql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo&logo&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo&logo&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo&logo&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo&logo&logo=typescript&logoColor=white)
-
-**📂 Data Version Control (DVC)**
-![Git/Github](https://img.shields.io/badge/Git-F05032?style=flat&logo&logo&logo=git&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo&logo)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo&logo&logo=githubactions&logoColor=white)
-
-**🐳 Contrainer and ☸️ Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo&logo&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo&logo&logo=kubernetes&logoColor=white)
-
-**☁️ Cloud Computing**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo&logo&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo&logo&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo&logo&logo=googlecloud&logoColor=white)
-
-**🛸👽 Deep Learning & 🤖 Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo&logo&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6C37?style=flat&logo&logo&logo=huggingface&logoColor=yellow)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo&logo&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo&logo&logo=scikit-learn&logoColor=white)
-
-**📊 Data Analysis & Exploration**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo&logo&logo=jupyter&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo&logo&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo&logo&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo&logo&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo&logo&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C516D?style=flat&logo&logo&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo&logo&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo&logo&logo=streamlit&logoColor=white)
-
-**🌐 API**
-![flask](https://img.shields.io/badge/Flask-000000?style=flat&logo&logo&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo&logo&logo=fastapi&logoColor=white)
-
-**🗺️ GIS Analysis**
-[![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=flat&logo&logo&logo=geopandas&logoColor=white)](https://geopandas.org/)
-[![Shapely](https://img.shields.io/badge/Shapely-4CAF50?style=flat&logo&logo)](https://shapely.readthedocs.io/)
-[![Rasterio](https://img.shields.io/badge/Rasterio-8B4513?style=flat&logo&logo)](https://rasterio.readthedocs.io/)
-[![Folium](https://img.shields.io/badge/Folium-006400?style=flat&logo&logo)](https://python-visualization.github.io/folium/)
-[![Rioxarray](https://img.shields.io/badge/Rioxarray%2Fxarray-4682B4?style=flat&logo&logo)](https://corteva.github.io/rioxarray/stable/)
-[![PyProj](https://img.shields.io/badge/PyProj-FF4500?style=flat&logo&logo)](https://pyproj4.github.io/pyproj/stable/)
-[![PySAL](https://img.shields.io/badge/PySAL-9932CC?style=flat&logo&logo)](https://pysal.org/)
-
-
-**🤗 LLM**
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo&logo&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo&logo&logo=chainlink&logoColor=white)](https://www.langchain.com/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=flat&logo&logo&logo=graphql&logoColor=white)](https://www.langchain.com/langgraph)
-[![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat&logo&logo&logo=langchain&logoColor=white)](https://smith.langchain.com/)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat&logo&logo)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo&logo)
-![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=flat&logo&logo)
-![FAISS](https://img.shields.io/badge/FAISS-0096FF?style=flat&logo&logo)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6E57E0?style=flat&logo&logo)
-![Pinecone](https://img.shields.io/badge/Pinecone-0F6FFF?style=flat&logo&logo)
-
-**🔠 OPTICAL CHARACTER RECOGNITION (OCR)**
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat&logo&logo)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo&logo&logo=opencv&logoColor=white)
-![pdfplumber](https://img.shields.io/badge/pdfplumber-4B5563?style=flat&logo&logo)
-![LanguageTool](https://img.shields.io/badge/LanguageTool-45A1FF?style=flat&logo&logo)
-
-**🗂️ Big Data and Data Engineering**
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo&logo&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo&logo&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo&logo)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo&logo&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo&logo&logo=apachehive&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo&logo&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo&logo&logo=apacheairflow&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo&logo&logo=apacheflink&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo&logo&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo&logo&logo=snowflake&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo&logo&logo=elasticsearch&logoColor=white)
-
-**🚀 Tools that coding makes easier**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo&logo&logo=openai&logoColor=white)
-![ClaudeCode](https://img.shields.io/badge/ClaudeCode-FF6F00?style=flat&logo&logo&logo=anthropic&logoColor=white)
-![githubcopilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo&logo&logo=githubcopilot&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo&logo&logo=stackoverflow&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo&logo&logo=visualstudiocode&logoColor=blue)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo&logo&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat&logo&logo&logo=google&logoColor=white)
-
----
-<!--Contacts -->
-### 📫 Connect With Me
+<!-- ░▒▓█ KENNETH MEDES // PROFILE README █▓▒░ -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kenneth-medes-956798345">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/kennethmedes28">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:6a00f4,100:ff2a6d&text=KENNETH%20MEDES&fontColor=05d9e8&fontSize=66&fontAlignY=36&desc=ML%20ENGINEER%20%E2%80%A2%20AGENTIC%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+
+<a href="https://github.com/kennethmedes28">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=05D9E8&center=true&vCenter=true&width=760&lines=%3E+booting+neural_core.sys+...+%5BOK%5D;%3E+building+agentic+flood+intel+for+Metro+Manila;%3E+shipping+voice-first+AI+for+Bhutan+%40+Omdena;%3E+orchestrating+multi-agent+dev+teams;%3E+from+load+paths+to+loss+functions_" alt="typing intro"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/kennethmedes28?tab=followers"><img src="https://img.shields.io/github/followers/kennethmedes28?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=05d9e8&labelColor=0d0221&color=6a00f4" alt="followers"/></a>
+<a href="https://huggingface.co/krukyyy28"><img src="https://img.shields.io/badge/HUGGING%20FACE-krukyyy28-ff2a6d?style=for-the-badge&logo=huggingface&logoColor=f9f871&labelColor=0d0221" alt="hugging face"/></a>
+<img src="https://img.shields.io/badge/OMDENA-PROJECT%20447-05d9e8?style=for-the-badge&labelColor=0d0221" alt="omdena"/>
+<img src="https://komarev.com/ghpvc/?username=kennethmedes28&label=SYS.VISITS&color=ff2a6d&style=for-the-badge" alt="profile views"/>
+<!-- Add yours: <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-05d9e8?style=for-the-badge&logo=linkedin&logoColor=05d9e8&labelColor=0d0221"/></a> -->
+
 </div>
+
+<br/>
+
+```diff
+@@ kenneth@neo-manila:~$ ./status --verbose                                   @@
++ [ONLINE]  Machine Learning Engineer · Backend Integration · Product Owner
++ [ACTIVE]  Flood-Gentic ......... agentic flood assistant for Metro Manila
++ [ACTIVE]  Omdena Project 447 ... voice-first AI for public services in Bhutan
+- [LEGACY]  Civil Engineer ....... structures → systems, load paths → loss functions
+```
+
+<h2>▓▒░ WHOAMI</h2>
+
+```python
+class Kenneth(Engineer):
+    handle     = "kennethmedes28"
+    role       = "Machine Learning Engineer · Backend Integration"
+    origin     = "Civil Engineering ➜ AI Engineering"
+    base       = "Philippines 🇵🇭"
+    pronouns   = "he/him"
+
+    builds     = ["agentic RAG systems", "voice AI pipelines", "CV & audio models",
+                  "API contracts that don't break at 2 AM"]
+    certs      = ["DataCamp · Data Analyst Professional",
+                  "AWS · Machine Learning Engineer (in progress)"]
+    open_to    = ["open-source collabs", "Omdena / Kaggle challenges", "ML/AI engineer roles"]
+
+    motto      = "Without quality data, intelligence is an illusion."
+```
+
+<h2>▓▒░ FEATURED OPERATIONS</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 [Flood-Gentic](https://github.com/kennethmedes28/Flood-Gentic)
+`AGENTIC RAG` `LANGGRAPH` `FASTAPI` `SUPABASE`
+
+A flood assistant for Metro Manila. Residents ask in **English or Filipino** and get answers grounded in official sources: the nearest evacuation center, flood risk for their area, a route around flooded streets, hotlines, and PAGASA weather. When the data is missing, it says so instead of guessing.
+
+```txt
+▸ LangGraph chat graph + specialist agents
+▸ hybrid FAISS + BM25 retrieval, RAGAS evals
+▸ voice input · flood-photo checks · Postgres checkpoints
+▸ status: backend tested, Next.js UI in progress
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🏔️ Omdena Project 447 · [Voice RAG pipeline](https://github.com/kennethmedes28/BANGLADESH_DZONGKHA_LLM)
+`VOICE AI` `NLP` `JSON SCHEMA` `PYTEST`
+
+Bilingual **English · Dzongkha** voice-first AI for public services in Bhutan. Product owner and backend integration engineer on Team D (Integration & Docs).
+
+```txt
+▸ authored the NLP intent schema contract (draft-07)
+▸ 60-test pytest validation suite + CI regression guard
+▸ fixed language-code drift across NLLB-200 / XLM-R
+
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [KCM Bank w/ Agents](https://github.com/kennethmedes28/KCM_BANK_w-_AGENTS)
+`MULTI-AGENT` `TYPESCRIPT` `LIGHTGBM` `DOCKER`
+
+Full-stack banking platform with an embedded forecasting engine, built by an orchestrated team of **11 specialized AI agents** (frontend, backend, data, ML, security, QA and more).
+
+```txt
+▸ LightGBM + CatBoost + XGBoost ensemble, Optuna-tuned
+▸ leakage audits, schema checks, security review
+▸ Dockerized: docker-compose up and go
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔊 [ESC-50 Sound Classification](https://github.com/kennethmedes28/ESC-50-SOUND-CLASSIFICATION)
+`AUDIO` `TRANSFORMERS` `PYTORCH` `HUGGING FACE`
+
+Teaching a model to recognize 50 everyday sounds from 5-second clips, from hand-crafted features to a pretrained Audio Spectrogram Transformer.
+
+```txt
+▸ Random Forest baseline ........ 44.5%
+▸ CNN on spectrograms ........... 62.2%
+▸ frozen AST + linear head ...... 96.4%  (humans ≈ 81%)
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎸 [OCTAVIOUS](https://github.com/kennethmedes28/OCTAVIOUS)
+`SINGLE-FILE APP` `JAVASCRIPT` `NODE.JS` `LLM`
+
+An interactive guitar & piano scale explorer that lives in one HTML file. Scales, modes, diatonic triads and 7ths, sharps/flats toggle, and a **Song Key Lookup** that asks an LLM (Anthropic, OpenAI, Groq or Gemini) for a song's key.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 [Document OCR Reviewer](https://github.com/kennethmedes28/DOCUMENT_OCR_REVIEWER)
+`OCR` `TESSERACT` `NLP` `UV`
+
+Scans handwritten or printed PDFs and flags inconsistent sentences, typos and hard-to-read characters, drawing a bounding box and a percentage error score around each sentence.
+
+</td>
+</tr>
+</table>
+
+<h2>▓▒░ BENCHMARK LOG</h2>
+
+| SYSTEM | TASK | MODEL | RESULT |
+|:--|:--|:--|--:|
+| [`FRUITS-360`](https://github.com/kennethmedes28/FRUITS-360) | 259-class produce classification | EfficientNetV2B0 · transfer learning · mixed precision | **97.96%** acc · **99.72%** top-3 |
+| [`ESC-50`](https://github.com/kennethmedes28/ESC-50-SOUND-CLASSIFICATION) | 50-class environmental sound | Audio Spectrogram Transformer (AudioSet) | **96.4%** ± 1.2% |
+| [`BRAIN-TUMOR`](https://github.com/kennethmedes28/BRAIN-TUMOR_DETECTION_USING_CNN) | MRI tumor / no-tumor | SimpleCNN · ResNet50 · EfficientNetB4 + focal loss | binary CNN pipeline |
+| [`FRAUD-DETECTION`](https://github.com/kennethmedes28/FRAUD-DETECTION) | credit-card fraud (imbalanced) | scikit-learn + imblearn · TensorFlow | ROC-AUC / F1 evaluated |
+
+<details>
+<summary><b>▸ ARCHIVE // more repos</b></summary>
+
+<br/>
+
+| REPO | WHAT IT IS |
+|:--|:--|
+| [`COMPILED_TORCH_MODELS`](https://github.com/kennethmedes28/COMPILED_TORCH_MODELS) | Reusable PyTorch RNN / LSTM / GRU / CNN models with an auto-task-detecting Trainer class |
+| [`EARTHQUAKE_ANALYSIS_1970-2014`](https://github.com/kennethmedes28/EARTHQUAKE_ANALYSIS_1970-2014) | 44 years of seismic events: profiling, geospatial maps, magnitude–depth trends |
+| [`WEB-SCRAPING-WITH-LLM`](https://github.com/kennethmedes28/WEB-SCRAPING-WITH-LLM) | LLM-assisted scraping and text processing |
+| [`KCM-BANK`](https://github.com/kennethmedes28/KCM-BANK) | The original Flask + SQLite banking app that KCM Bank w/ Agents grew from |
+
+</details>
+
+<h2>▓▒░ ARSENAL</h2>
+
+<div align="center">
+
+**// CORE STACK**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,postgres,supabase,sqlite&theme=dark" alt="core stack"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,azure,gcp,linux,bash,git&theme=dark" alt="infra stack"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,html,css,java,vercel,vscode&theme=dark" alt="web stack"/>
+
+**// LLM & AGENTS**
+
+![LangChain](https://img.shields.io/badge/LangChain-0d0221?style=flat-square&logo=langchain&logoColor=05d9e8)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d0221?style=flat-square&logoColor=05d9e8)
+![LangSmith](https://img.shields.io/badge/LangSmith-0d0221?style=flat-square&logoColor=05d9e8)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d0221?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d0221?style=flat-square&logo=huggingface&logoColor=f9f871)
+![Transformers](https://img.shields.io/badge/Transformers-0d0221?style=flat-square&logo=huggingface&logoColor=ff2a6d)
+![FAISS](https://img.shields.io/badge/FAISS-0d0221?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d0221?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d0221?style=flat-square)
+![RAGAS](https://img.shields.io/badge/RAGAS-0d0221?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-0d0221?style=flat-square&logo=spacy&logoColor=05d9e8)
+![NLTK](https://img.shields.io/badge/NLTK-0d0221?style=flat-square)
+
+**// DATA, MLOPS & GEOSPATIAL**
+
+![Pandas](https://img.shields.io/badge/Pandas-0d0221?style=flat-square&logo=pandas&logoColor=ff2a6d)
+![NumPy](https://img.shields.io/badge/NumPy-0d0221?style=flat-square&logo=numpy&logoColor=05d9e8)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d0221?style=flat-square&logo=jupyter&logoColor=f9f871)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d0221?style=flat-square&logo=streamlit&logoColor=ff2a6d)
+![Plotly](https://img.shields.io/badge/Plotly-0d0221?style=flat-square&logo=plotly&logoColor=05d9e8)
+![MLflow](https://img.shields.io/badge/MLflow-0d0221?style=flat-square&logo=mlflow&logoColor=05d9e8)
+![Optuna](https://img.shields.io/badge/Optuna-0d0221?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0221?style=flat-square&logo=opencv&logoColor=f9f871)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-0d0221?style=flat-square)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0d0221?style=flat-square)
+![Rasterio](https://img.shields.io/badge/Rasterio-0d0221?style=flat-square)
+![Folium](https://img.shields.io/badge/Folium-0d0221?style=flat-square)
+![PySAL](https://img.shields.io/badge/PySAL-0d0221?style=flat-square)
+
+</div>
+
+<h2>▓▒░ TELEMETRY</h2>
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=kennethmedes28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&ring_color=ff2a6d" alt="github stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethmedes28&layout=compact&langs_count=8&hide_border=true&bg_color=0d0221&title_color=05d9e8&text_color=d1f7ff" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=kennethmedes28&hide_border=true&background=0D0221&stroke=6A00F4&ring=FF2A6D&fire=FF2A6D&currStreakNum=D1F7FF&sideNums=D1F7FF&currStreakLabel=05D9E8&sideLabels=05D9E8&dates=8B8BAE" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kennethmedes28&bg_color=0d0221&color=05d9e8&line=ff2a6d&point=f9f871&area=true&area_color=6a00f4&hide_border=true&custom_title=SIGNAL%20ACTIVITY" width="100%" alt="activity graph"/>
+
+</div>
+
+<h2>▓▒░ END OF TRANSMISSION</h2>
+
+```bash
+$ echo "$MISSION"
+> To help people make better decisions with AI, and to help AI make better decisions with people.
+$ exit 0
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff2a6d,55:6a00f4,100:0d0221" width="100%" alt="footer"/>
