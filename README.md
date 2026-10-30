@@ -47,7 +47,7 @@ class Kenneth(Engineer):
     motto      = "Without quality data, intelligence is an illusion."
 ```
 
-<h2>▓▒░ FEATURED OPERATIONS</h2>
+<h2>▓▒░ FEATURED PROJECTS</h2>
 
 <table>
 <tr>
@@ -67,7 +67,7 @@ A flood assistant for Metro Manila. Residents ask in **English or Filipino** and
 
 </td>
 <td width="50%" valign="top">
-  
+
 ### 🌾 Omdena TerraYield 2 · Gold Dataset
 `GEOSPATIAL` `SENTINEL-2` `DATA ENGINEERING` `ML BENCHMARK`
 
@@ -77,11 +77,12 @@ A multimodal agricultural intelligence dataset for crop yield prediction: Sentin
 ▸ content-level audit of Sentinel-2 archives (IA/IL 2020–25)
 ▸ weather schema contract + Open-Meteo fetcher on 16-day windows
 ▸ merged satellite · weather · USDA · prices → Gold candidate
-▸ verified the USDA CENSUS/SURVEY yield bug + SURVEY-only fix
-▸ authored the crop-yield reproducibility protocol (Sprint 3)
+▸ Primary frontend engineer for Omdena TerraYield 2
 ```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏔️ Omdena Project 447 · [Voice RAG pipeline](https://github.com/kennethmedes28/BANGLADESH_DZONGKHA_LLM)
@@ -90,15 +91,13 @@ A multimodal agricultural intelligence dataset for crop yield prediction: Sentin
 Bilingual **English · Dzongkha** voice-first AI for public services in Bhutan. Product owner and backend integration engineer on Team D (Integration & Docs).
 
 ```txt
-▸ authored the NLP intent schema contract (draft-07)
 ▸ 60-test pytest validation suite + CI regression guard
 ▸ fixed language-code drift across NLLB-200 / XLM-R
-
+▸ CI/CD pipeline for FastAPI + LangChain + LlamaIndex
+▸ integrated voice input, RAG retrieval, and LLM response generation
 ```
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏦 [KCM Bank w/ Agents](https://github.com/kennethmedes28/KCM_BANK_w-_AGENTS)
@@ -113,6 +112,8 @@ Full-stack banking platform with an embedded forecasting engine, built by an orc
 ```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔊 [ESC-50 Sound Classification](https://github.com/kennethmedes28/ESC-50-SOUND-CLASSIFICATION)
@@ -127,22 +128,12 @@ Teaching a model to recognize 50 everyday sounds from 5-second clips, from hand-
 ```
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎸 [OCTAVIOUS](https://github.com/kennethmedes28/OCTAVIOUS)
 `SINGLE-FILE APP` `JAVASCRIPT` `NODE.JS` `LLM`
 
 An interactive guitar & piano scale explorer that lives in one HTML file. Scales, modes, diatonic triads and 7ths, sharps/flats toggle, and a **Song Key Lookup** that asks an LLM (Anthropic, OpenAI, Groq or Gemini) for a song's key.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 [Document OCR Reviewer](https://github.com/kennethmedes28/DOCUMENT_OCR_REVIEWER)
-`OCR` `TESSERACT` `NLP` `UV`
-
-Scans handwritten or printed PDFs and flags inconsistent sentences, typos and hard-to-read characters, drawing a bounding box and a percentage error score around each sentence.
 
 </td>
 </tr>
