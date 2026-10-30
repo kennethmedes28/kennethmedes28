@@ -219,10 +219,10 @@ An interactive guitar & piano scale explorer that lives in one HTML file. Scales
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kennethmedes28/kennethmedes28/output/github-snake-dark.svg?v=2"
+    srcset="https://raw.githubusercontent.com/kennethmedes28/kennethmedes28/output/github-snake-dark.svg?v=3"
   />
   <img
-    src="https://raw.githubusercontent.com/kennethmedes28/kennethmedes28/output/github-snake.svg?v=2"
+    src="https://raw.githubusercontent.com/kennethmedes28/kennethmedes28/output/github-snake.svg?v=3"
     width="100%"
     alt="Contribution Snake"
   />
