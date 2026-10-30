@@ -216,7 +216,10 @@ An interactive guitar & piano scale explorer that lives in one HTML file. Scales
 
 <img src="https://streak-stats.demolab.com?user=kennethmedes28&hide_border=true&background=0D0221&stroke=6A00F4&ring=FF2A6D&fire=FF2A6D&currStreakNum=D1F7FF&sideNums=D1F7FF&currStreakLabel=05D9E8&sideLabels=05D9E8&dates=8B8BAE" alt="streak"/>
 
-<img src="https://ghchart.rshah.org/6a00f4/kennethmedes28" width="100%" alt="contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kennethmedes28/kennethmedes28/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/kennethmedes28/kennethmedes28/output/github-snake.svg" width="100%" alt="contribution snake"/>
+</picture>
 
 </div>
 
