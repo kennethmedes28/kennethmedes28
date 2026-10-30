@@ -222,7 +222,7 @@ An interactive guitar & piano scale explorer that lives in one HTML file. Scales
     srcset="https://raw.githubusercontent.com/kennethmedes28/kennethmedes28/output/github-snake-dark.svg?v=3"
   />
   <img
-    src="https://raw.githubusercontent.com/kennethmedes28/kennethmedes28/output/github-snake.svg?v=3"
+    src="https://raw.githubusercontent.com/kennethmedes28/kennethmedes28/output/github-snake.svg?v=5"
     width="100%"
     alt="Contribution Snake"
   />
