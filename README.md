@@ -211,12 +211,12 @@ An interactive guitar & piano scale explorer that lives in one HTML file. Scales
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=kennethmedes28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0221&title_color=ff2a6d&icon_color=05d9e8&text_color=d1f7ff&ring_color=ff2a6d" alt="github stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethmedes28&layout=compact&langs_count=8&hide_border=true&bg_color=0d0221&title_color=05d9e8&text_color=d1f7ff" alt="top languages"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kennethmedes28&theme=radical" alt="github stats"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kennethmedes28&theme=radical" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=kennethmedes28&hide_border=true&background=0D0221&stroke=6A00F4&ring=FF2A6D&fire=FF2A6D&currStreakNum=D1F7FF&sideNums=D1F7FF&currStreakLabel=05D9E8&sideLabels=05D9E8&dates=8B8BAE" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kennethmedes28&bg_color=0d0221&color=05d9e8&line=ff2a6d&point=f9f871&area=true&area_color=6a00f4&hide_border=true&custom_title=SIGNAL%20ACTIVITY" width="100%" alt="activity graph"/>
+<img src="https://ghchart.rshah.org/6a00f4/kennethmedes28" width="100%" alt="contribution graph"/>
 
 </div>
 
