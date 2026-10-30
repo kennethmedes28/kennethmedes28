@@ -33,7 +33,7 @@
 ```python
 class Kenneth(Engineer):
     handle     = "kennethmedes28"
-    role       = "Machine Learning Engineer · Backend Integration"
+    role       = "Machine Learning Engineer · Backend Integration · Front-End Designer · Data Analyst/Data Scientist"
     origin     = "Civil Engineering ➜ AI Engineering"
     base       = "Philippines 🇵🇭"
     pronouns   = "he/him"
