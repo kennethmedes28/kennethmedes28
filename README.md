@@ -23,8 +23,9 @@
 @@ kenneth@neo-manila:~$ ./status --verbose                                   @@
 + [ONLINE]  Machine Learning Engineer · Backend Integration · Product Owner
 + [ACTIVE]  Flood-Gentic ......... agentic flood assistant for Metro Manila
-+ [ACTIVE]  Omdena Project 447 ... voice-first AI for public services in Bhutan
-- [LEGACY]  Civil Engineer ....... structures → systems, load paths → loss functions
++ [ACCOMPLISHMENT]  Omdena Project ... TerraYield 2
++ [ACCOMPLISHMENT]  Omdena Project ... voice-first AI for public services in Bhutan
+- [LEGACY]  Civil Engineer ....... project management → systems, load paths → loss functions
 ```
 
 <h2>▓▒░ WHOAMI</h2>
@@ -62,6 +63,22 @@ A flood assistant for Metro Manila. Residents ask in **English or Filipino** and
 ▸ hybrid FAISS + BM25 retrieval, RAGAS evals
 ▸ voice input · flood-photo checks · Postgres checkpoints
 ▸ status: backend tested, Next.js UI in progress
+```
+
+</td>
+<td width="50%" valign="top">
+  
+### 🌾 Omdena TerraYield 2 · Gold Dataset
+`GEOSPATIAL` `SENTINEL-2` `DATA ENGINEERING` `ML BENCHMARK`
+
+A multimodal agricultural intelligence dataset for crop yield prediction: Sentinel-2 vegetation indices, Open-Meteo weather, USDA NASS yields and grain prices for corn and soybean across Iowa and Illinois. I worked as **data coordinator**, keeping every domain aligned to one schema so the Gold Dataset could be built and benchmarked.
+
+```txt
+▸ content-level audit of Sentinel-2 archives (IA/IL 2020–25)
+▸ weather schema contract + Open-Meteo fetcher on 16-day windows
+▸ merged satellite · weather · USDA · prices → Gold candidate
+▸ verified the USDA CENSUS/SURVEY yield bug + SURVEY-only fix
+▸ authored the crop-yield reproducibility protocol (Sprint 3)
 ```
 
 </td>
