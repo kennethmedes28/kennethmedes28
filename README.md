@@ -12,7 +12,6 @@
 
 <a href="https://github.com/kennethmedes28?tab=followers"><img src="https://img.shields.io/github/followers/kennethmedes28?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=05d9e8&labelColor=0d0221&color=6a00f4" alt="followers"/></a>
 <a href="https://huggingface.co/krukyyy28"><img src="https://img.shields.io/badge/HUGGING%20FACE-krukyyy28-ff2a6d?style=for-the-badge&logo=huggingface&logoColor=f9f871&labelColor=0d0221" alt="hugging face"/></a>
-<img src="https://img.shields.io/badge/OMDENA-PROJECT%20447-05d9e8?style=for-the-badge&labelColor=0d0221" alt="omdena"/>
 <img src="https://komarev.com/ghpvc/?username=kennethmedes28&label=SYS.VISITS&color=ff2a6d&style=for-the-badge" alt="profile views"/>
 <!-- Add yours: <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-05d9e8?style=for-the-badge&logo=linkedin&logoColor=05d9e8&labelColor=0d0221"/></a> -->
 
