@@ -25,6 +25,7 @@
 + [ACCOMPLISHMENT]  Omdena Project ... TerraYield 2
 + [ACCOMPLISHMENT]  Omdena Project ... voice-first AI for public services in Bhutan
 - [LEGACY]  Civil Engineer ....... project management → systems, load paths → loss functions
+- [STATUS] Single Developer · single in Real Life 😂
 ```
 
 <h2>▓▒░ WHOAMI</h2>
