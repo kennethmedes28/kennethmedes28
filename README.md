@@ -67,7 +67,7 @@ A flood assistant for Metro Manila. Residents ask in **English or Filipino** and
 </td>
 <td width="50%" valign="top">
 
-### 🌾 Omdena TerraYield 2 · Gold Dataset
+### 🌾 Omdena TerraYield 2
 `GEOSPATIAL` `SENTINEL-2` `DATA ENGINEERING` `ML BENCHMARK`
 
 A multimodal agricultural intelligence dataset for crop yield prediction: Sentinel-2 vegetation indices, Open-Meteo weather, USDA NASS yields and grain prices for corn and soybean across Iowa and Illinois. I worked as **data coordinator**, keeping every domain aligned to one schema so the Gold Dataset could be built and benchmarked.
