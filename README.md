@@ -19,7 +19,7 @@
 <br/>
 
 ```diff
-@@ kenneth@neo-manila:~$ ./status --verbose                                   @@
+@@ kenneth@neo-cyberpunk-theme:~$ ./status --verbose                                 
 + [ONLINE]  Machine Learning Engineer · Backend Integration · Front-End Designer · Product Owner
 + [ACTIVE]  Flood-Gentic ......... agentic flood assistant for Metro Manila
 + [ACCOMPLISHMENT]  Omdena Project ... TerraYield 2
