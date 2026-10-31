@@ -84,7 +84,7 @@ A multimodal agricultural intelligence dataset for crop yield prediction: Sentin
 <tr>
 <td width="50%" valign="top">
 
-### 🏔️ Omdena Project 447 · [Voice RAG pipeline](https://github.com/kennethmedes28/BANGLADESH_DZONGKHA_LLM)
+### 🏔️ Omdena Project Voice First
 `VOICE AI` `NLP` `JSON SCHEMA` `PYTEST`
 
 Bilingual **English · Dzongkha** voice-first AI for public services in Bhutan. Product owner and backend integration engineer on Team D (Integration & Docs).
