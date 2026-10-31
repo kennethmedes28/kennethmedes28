@@ -76,7 +76,7 @@ A multimodal agricultural intelligence dataset for crop yield prediction: Sentin
 ▸ content-level audit of Sentinel-2 archives (IA/IL 2020–25)
 ▸ weather schema contract + Open-Meteo fetcher on 16-day windows
 ▸ merged satellite · weather · USDA · prices → Gold candidate
-▸ Primary frontend engineer for Omdena TerraYield 2
+▸ Primary frontend developer for Omdena TerraYield 2
 ```
 
 </td>
