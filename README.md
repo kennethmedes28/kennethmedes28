@@ -44,6 +44,7 @@ class Kenneth(Engineer):
     open_to    = ["open-source collabs", "Omdena / Kaggle challenges", "ML/AI engineer roles"]
 
     motto      = "Without quality data, intelligence is an illusion."
+    CI/CD      = "Continuous Improvement, Continuous Development"  
 ```
 
 <h2>▓▒░ FEATURED PROJECTS</h2>
