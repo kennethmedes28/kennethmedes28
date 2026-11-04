@@ -62,7 +62,7 @@ A flood assistant for Metro Manila. Residents ask in **English or Filipino** and
 ▸ LangGraph chat graph + specialist agents
 ▸ hybrid FAISS + BM25 retrieval, RAGAS evals
 ▸ voice input · flood-photo checks · Postgres checkpoints
-▸ status: backend tested, Next.js UI in progress
+▸ status: backend tested, Next.js UI.
 ```
 
 </td>
