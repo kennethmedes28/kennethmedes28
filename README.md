@@ -24,7 +24,7 @@
 + [ACTIVE]  Flood-Gentic ......... agentic flood assistant for Metro Manila
 + [ACCOMPLISHMENT]  Omdena Project ... TerraYield 2
 + [ACCOMPLISHMENT]  Omdena Project ... voice-first AI for public services in Bhutan
-- [LEGACY]  Civil Engineer ....... project management → systems, load paths → loss functions
+- [LEGACY]  Civil Engineer ....... project management → building maintenance → quality control
 ```
 
 <h2>▓▒░ WHOAMI</h2>
