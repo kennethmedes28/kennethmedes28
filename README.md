@@ -20,8 +20,8 @@
 
 ```diff
 @@ kenneth@neo-cyberpunk-theme:~$ ./status --verbose                                 
-+ [ONLINE]  Machine Learning Engineer · Backend Integration · Front-End Designer · Product Owner
-+ [ACTIVE]  Flood-Gentic ......... agentic flood assistant for Metro Manila
++ [ONLINE]  Machine Learning Engineer · Backend Integration · Product Owner
++ [ACCOMPLISHMENT]  Flood-Gentic ......... agentic flood assistant for Metro Manila
 + [ACCOMPLISHMENT]  Omdena Project ... TerraYield 2
 + [ACCOMPLISHMENT]  Omdena Project ... voice-first AI for public services in Bhutan
 - [LEGACY]  Civil Engineer ....... project management → building maintenance → quality control
