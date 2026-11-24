@@ -49,7 +49,8 @@ class Kenneth(Engineer):
 
 <h2>▓▒░ FEATURED PROJECTS</h2>
 
-<table>
+<div align="center">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -58,12 +59,10 @@ class Kenneth(Engineer):
 
 A flood assistant for Metro Manila. Residents ask in **English or Filipino** and get answers grounded in official sources: the nearest evacuation center, flood risk for their area, a route around flooded streets, hotlines, and PAGASA weather. When the data is missing, it says so instead of guessing.
 
-```txt
-▸ LangGraph chat graph + specialist agents
-▸ hybrid FAISS + BM25 retrieval, RAGAS evals
-▸ voice input · flood-photo checks · Postgres checkpoints
-▸ status: backend tested, Next.js UI.
-```
+- LangGraph chat graph + specialist agents
+- Hybrid FAISS + BM25 retrieval, RAGAS evals
+- Voice input · flood-photo checks · Postgres checkpoints
+- Status: backend tested, Next.js UI
 
 </td>
 <td width="50%" valign="top">
@@ -73,12 +72,10 @@ A flood assistant for Metro Manila. Residents ask in **English or Filipino** and
 
 A multimodal agricultural intelligence dataset for crop yield prediction: Sentinel-2 vegetation indices, Open-Meteo weather, USDA NASS yields and grain prices for corn and soybean across Iowa and Illinois. I worked as **data coordinator**, keeping every domain aligned to one schema so the Gold Dataset could be built and benchmarked.
 
-```txt
-▸ content-level audit of Sentinel-2 archives (IA/IL 2020–25)
-▸ weather schema contract + Open-Meteo fetcher on 16-day windows
-▸ merged satellite · weather · USDA · prices → Gold candidate
-▸ Primary frontend developer for Omdena TerraYield 2
-```
+- Content-level audit of Sentinel-2 archives (IA/IL 2020–25)
+- Weather schema contract + Open-Meteo fetcher on 16-day windows
+- Merged satellite · weather · USDA · prices → Gold candidate
+- Primary frontend developer for Omdena TerraYield 2
 
 </td>
 </tr>
@@ -90,12 +87,10 @@ A multimodal agricultural intelligence dataset for crop yield prediction: Sentin
 
 Bilingual **English · Dzongkha** voice-first AI for public services in Bhutan. Product owner and backend integration engineer on Team D (Integration & Docs).
 
-```txt
-▸ 60-test pytest validation suite + CI regression guard
-▸ fixed language-code drift across NLLB-200 / XLM-R
-▸ CI/CD pipeline for FastAPI + LangChain + LlamaIndex
-▸ integrated voice input, RAG retrieval, and LLM response generation
-```
+- 60-test pytest validation suite + CI regression guard
+- Fixed language-code drift across NLLB-200 / XLM-R
+- CI/CD pipeline for FastAPI + LangChain + LlamaIndex
+- Integrated voice input, RAG retrieval, and LLM response generation
 
 </td>
 <td width="50%" valign="top">
@@ -105,11 +100,9 @@ Bilingual **English · Dzongkha** voice-first AI for public services in Bhutan. 
 
 Full-stack banking platform with an embedded forecasting engine, built by an orchestrated team of **11 specialized AI agents** (frontend, backend, data, ML, security, QA and more).
 
-```txt
-▸ LightGBM + CatBoost + XGBoost ensemble, Optuna-tuned
-▸ leakage audits, schema checks, security review
-▸ Dockerized: docker-compose up and go
-```
+- LightGBM + CatBoost + XGBoost ensemble, Optuna-tuned
+- Leakage audits, schema checks, security review
+- Dockerized: `docker-compose up` and go
 
 </td>
 </tr>
@@ -121,11 +114,9 @@ Full-stack banking platform with an embedded forecasting engine, built by an orc
 
 Teaching a model to recognize 50 everyday sounds from 5-second clips, from hand-crafted features to a pretrained Audio Spectrogram Transformer.
 
-```txt
-▸ Random Forest baseline ........ 44.5%
-▸ CNN on spectrograms ........... 62.2%
-▸ frozen AST + linear head ...... 96.4%  (humans ≈ 81%)
-```
+- Random Forest baseline → **44.5%**
+- CNN on spectrograms → **62.2%**
+- Frozen AST + linear head → **96.4%** (humans ≈ 81%)
 
 </td>
 <td width="50%" valign="top">
@@ -138,6 +129,8 @@ An interactive guitar & piano scale explorer that lives in one HTML file. Scales
 </td>
 </tr>
 </table>
+</div>
+
 
 <h2>▓▒░ BENCHMARK LOG</h2>
 
