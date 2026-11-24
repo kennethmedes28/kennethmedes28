@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:6a00f4,100:ff2a6d&text=KENNETH%20MEDES&fontColor=05d9e8&fontSize=66&fontAlignY=36&desc=ML%20ENGINEER%20%E2%80%A2%20AGENTIC%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://github.com/kennethmedes28">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=05D9E8&center=true&vCenter=true&width=760&lines=%3E+booting+neural_core.sys+...+%5BOK%5D;%3E+building+agentic+flood+intel+for+Metro+Manila;%3E+shipping+voice-first+AI+for+Bhutan+%40+Omdena;%3E+orchestrating+multi-agent+dev+teams;%3E+from+load+paths+to+loss+functions_" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=05D9E8&center=true&vCenter=true&width=800&lines=%3E+import+pandas+sklearn+torch,+transformers...+%5BOK%5D;%3E+orchestrating+multi-agentic+solutions...;%3E+from+load+paths+to+loss+functions+then...+%5BDEPLOYED+SUCCESSFULLY!%5D;%3E+eat,+sleep,+code,+repeat...;%3E+living+life+to+the+fullest;%3E+%F0%9F%8E%B9%F0%9F%8E%B8" alt="typing intro"/>
 </a>
 
 <br/>
